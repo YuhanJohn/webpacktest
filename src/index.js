@@ -5,6 +5,7 @@ import printMe from './print.js';
 import './js/test2.js';
 import './js/test1.js';
 // test
+// test 2
 
 function component() {
     var element = document.createElement('div');
